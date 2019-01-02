@@ -16,5 +16,5 @@ Use Alexa to control devices via an ESP8266 or NodeMCU. In additional, you can u
   
 ## How to wire up the Porject:
 
-  
+  ![alt text](https://github.com/Grensom/Alexa-IR-Blaster/blob/master/IR_Blaster.JPG)
 
