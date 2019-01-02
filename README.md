@@ -14,5 +14,7 @@ Use Alexa to control devices via an ESP8266 or NodeMCU. In additional, you can u
   
   https://www.amazon.com/dp/B06XPWS52G/ref=cm_sw_em_r_mt_dp_U_FpmlCbV53Z19Y
   
+## How to wire up the Porject:
+
   
 
